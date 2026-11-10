@@ -242,6 +242,7 @@ body {
 .checkout-card { background: var(--soft-blue); border-radius: 20px; padding: 28px; }
 .price-label { margin: 0; font-size: 0.82rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); }
 .price { margin: 6px 0 4px; font-weight: 800; font-size: 2.1rem; color: var(--blue); }
+.price-naira { font-size: 1.1rem; font-weight: 600; color: var(--muted); }
 .price-caption { margin: 0 0 20px; font-size: 0.85rem; color: var(--muted); }
 .secure-note { margin-top: 16px; font-size: 0.8rem; color: var(--muted); }
 .status { margin-top: 12px; font-size: 0.88rem; font-weight: 600; min-height: 1.2em; }
